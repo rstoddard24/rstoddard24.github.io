@@ -1,4 +1,4 @@
+title: CSE 583 - Software Development for Data Scientists
+
 theme: jekyll-theme-hacker
 include: ["_pages"]
-permalink: /:title/
-permalink: "/about/"
