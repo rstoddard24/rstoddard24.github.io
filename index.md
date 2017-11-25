@@ -4,7 +4,7 @@ title: Home
 collection: main
 ---
 
-## Ryan Stoddard2
+## Ryan Stoddard
 
 [Projects](projects.md)
 
