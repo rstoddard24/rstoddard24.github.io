@@ -1,3 +1,9 @@
+---
+layout: home
+title: Home
+collection: main
+---
+
 ## Ryan Stoddard
 
 [Projects](projects.md)
