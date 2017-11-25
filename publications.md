@@ -4,8 +4,8 @@ title: Publications
 collection: main
 ---
 
-# Projects
+## Journal Publications
 
-Project 1
+## Patents
 
-Project 2
+## Presentations
