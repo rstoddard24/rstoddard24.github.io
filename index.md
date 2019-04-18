@@ -5,13 +5,13 @@ collection: main
 ---
 
 ## Summary
-I am a data scientist, interested in leveraging signals in various datasets to impact society.
-Currently I am pursuing my PhD in chemical engineering (with Advanced Data Science option) at
- University of Washington.
+I am a data scientist, who is passionate about looking at signals in data to understand
+complex global challenges.
 
-My PhD research involves applying machine learning to improve efficiency and stability of solar cells
+Currently I am pursuing my PhD in chemical engineering with a concentration in data science at
+ University of Washington. My PhD research involves applying machine learning to improve efficiency and stability of solar cells.
 
-![alt text](photos/thin_film.png)
+![alt text](photos/profile.png)
 
 Check out some of my recent work in the [Projects](projects.md) and
 [Publications](publications.md) tabs.

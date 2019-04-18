@@ -9,7 +9,7 @@ collection: main
 
 **Stoddard, R. J.**; Rajagopal, A.; Palmer, R. L.; Braly, I. L.; Jen, A. K. Y.; Hillhouse, H. W., Enhancing Defect Tolerance and Phase Stability of High-Bandgap Perovskites via Guanidinium Alloying. ACS Energy Letters 2018, 3, 1261-1268 [link](https://pubs.acs.org/doi/10.1021/acsenergylett.8b00576)
 
-Braly, I. L.^; **Stoddard, R. J.^ **; Rajagopal, A.; Uhl, A. R.; Katahara, J. K.; Jen, A. K.-Y.; Hillhouse, H. W., Current-Induced 	Phase Segregation in Mixed Halide Hybrid Perovskites and its Impact on Two-Terminal Tandem Solar Cell Design. ACS Energy Letters 2017, 2 (8), 1841-1847. ^Equal Author Contribution [link](https://pubs.acs.org/doi/abs/10.1021/acsenergylett.7b00525)
+Braly, I. L.; **Stoddard, R. J.**; Rajagopal, A.; Uhl, A. R.; Katahara, J. K.; Jen, A. K.-Y.; Hillhouse, H. W., Current-Induced 	Phase Segregation in Mixed Halide Hybrid Perovskites and its Impact on Two-Terminal Tandem Solar Cell Design. ACS Energy Letters 2017, 2 (8), 1841-1847. Equal Author Contribution [link](https://pubs.acs.org/doi/abs/10.1021/acsenergylett.7b00525)
 
 Rajagopal, A.; **Stoddard, R. J.**; Jo, S. B.; Hillhouse, H. W.; Jen, A. K. Y., Overcoming the Photovoltage Plateau in Large Bandgap Perovskite Photovoltaics. Nano Letters 2018. [link](https://pubs.acs.org/doi/10.1021/acs.nanolett.8b01480)
 
