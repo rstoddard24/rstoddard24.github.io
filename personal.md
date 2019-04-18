@@ -11,7 +11,7 @@ I am a passionate adventurer, and typically spend my free time outside with like
 I have volunteered for 4 years as an instructor with Outdoors For All, providing outdoor recreation
 opportunities with folks of all ages with disabilities. The community at OFA is incredible, and I am
 always overwhelmed by how much I learn from my students and their families.
-![alt text](photos/OFA.jpg)
+<div style="text-align:center"><img  width="350" height="300" src="photos/OFA.png" align="middle"></div>
 
 ## Adventure
 ### Mountaineering
