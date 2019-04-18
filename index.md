@@ -17,4 +17,4 @@ Check out some of my recent work in the [Projects](projects.md) and
 I spend my free time exploring the outdoors, check out my adventures in the
 [Personal](personal.md) tab
 
-<img style="float: center;" width="200" height="260" src="photos/profile.jpg">
+<img  width="300" height="391" src="photos/profile.jpg" align="middle">
