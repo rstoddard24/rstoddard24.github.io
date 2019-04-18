@@ -5,6 +5,8 @@ collection: main
 ---
 
 ## Journal Publications
+face
+
 **Stoddard, R. J.**; Eickemeyer, F. T.; Katahara, J. K.; Hillhouse, H. W., Correlation between Photoluminescence and Carrier Transport and a Simple In Situ Passivation Method for High-Bandgap Hybrid Perovskites. The Journal of Physical Chemistry Letters 2017, 8 (14), 3289-3298. Paper featured as ACS Editor’s Choice [link](https://pubs.acs.org/doi/10.1021/acs.jpclett.7b01185)
 
 **Stoddard, R. J.**; Rajagopal, A.; Palmer, R. L.; Braly, I. L.; Jen, A. K. Y.; Hillhouse, H. W., Enhancing Defect Tolerance and Phase Stability of High-Bandgap Perovskites via Guanidinium Alloying. ACS Energy Letters 2018, 3, 1261-1268 [link](https://pubs.acs.org/doi/10.1021/acsenergylett.8b00576)
