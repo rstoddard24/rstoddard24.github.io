@@ -3,7 +3,7 @@ layout: page
 title: Personal
 collection: main
 ---
-![alt text](photos/klawatti_glac.png)
+![alt text](photos/klawatti_glac.jpg)
 ## Summary
 I am a passionate adventurer, and typically spend my free time outside with like-minded people
 
