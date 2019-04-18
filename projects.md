@@ -11,6 +11,13 @@ I initiated using high throughput experiments to collect the Hybrid Perovskite D
  (learn more [here](https://pubs.acs.org/doi/10.1021/acsenergylett.8b00576))
 ![alt text](photos/hpdb.png)
 
+## Hybrid Perovskite Material Quality Database
+<p> I initiated using high throughput experiments to collect the Hybrid Perovskite Database
+(hp-db). I used machine learning models with the hp-db to link composition to material properties -
+ this work led to discovery of new materials that exhibited world-record device open-circuit voltage 
+ (learn more here)
+<img  width="200" height="152" src="photos/hpdb.png" align="right"> </p>
+
 ## Time Series Forecasting of HP Solar Cell Stability
 I developed tools for timeseries forecasting of solar cell stability using photoluminescence video datasets. 
 This work helped secure $1.5M in Department of Energy funding to enhance the operational stability
