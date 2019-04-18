@@ -11,7 +11,7 @@ complex global challenges.
 Currently I am pursuing my PhD in chemical engineering with a concentration in data science at
  University of Washington. My PhD research involves applying machine learning to improve efficiency and stability of solar cells.
 
-![alt text](photos/profile.png)
+![alt text](photos/profile.jpg)
 
 Check out some of my recent work in the [Projects](projects.md) and
 [Publications](publications.md) tabs.
