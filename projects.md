@@ -5,11 +5,12 @@ collection: main
 ---
 
 ## Hybrid Perovskite Material Quality Database
+<img class="special-img-class" width="300" height="228" src="photos/hpdb.png" align="right" />
 I initiated using high throughput experiments to collect the Hybrid Perovskite Database
 (hp-db). I used machine learning models with the hp-db to link composition to material properties -
  this work led to discovery of new materials that exhibited world-record device open-circuit voltage 
  (learn more [here](https://pubs.acs.org/doi/10.1021/acsenergylett.8b00576))
-<div style="text-align:center"><img  width="300" height="228" src="photos/hpdb.png" align="middle"></div>
+
 
 
 
