@@ -1,22 +1,5 @@
 title: Ryan Stoddard
-email: rstodd (at) uw.edu
+email: ryanstoddard24 (at) gmail.com
 linkedin_username: ryan-stoddard-2216ab2a
 
 theme: jekyll-theme-hacker
-
-[[menu.main]]
-    name = "Home"
-    url = "/"
-    weight = 1
-[[menu.main]]
-    name = "Projects"
-    url = "/projects/"
-    weight = 2
-[[menu.main]]
-    name = "Publications"
-    url = "/publications/"
-    weight = 3
-[[menu.main]]
-    name = "Personal"
-    url = "/personal/"
-    weight = 4
