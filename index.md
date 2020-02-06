@@ -18,4 +18,4 @@ Check out some of my recent work in the [Projects](projects.md) and
 
 I currently live in Seattle with my wife Kristin, and enjoy running, climbing, skiing, peakbagging, dancing, and cooking spicy food
 
-<div style="text-align:center"><img  width="900" height="203" src="photos/adventure_pics.png" align="middle"></div>
+<div style="text-align:center"><img  width="800" height="180" src="photos/adventure_pics.png" align="middle"></div>
