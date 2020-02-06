@@ -14,7 +14,7 @@ I am defended my PhD in chemical engineering with a concentration in data scienc
 Check out some of my recent work in the [Projects](projects.md) and
 [Publications](publications.md) tabs.
 
-<div style="text-align:center"><img  width="300" height="391" src="photos/defense.jpg" align="middle"></div>
+<div style="text-align:center"><img  width="300" height="391" src="photos/defense2.jpg" align="middle"></div>
 
 I currently live in Seattle with my wife Kristin, and enjoy running, climbing, skiing, peakbagging, dancing, and cooking spicy food
 
